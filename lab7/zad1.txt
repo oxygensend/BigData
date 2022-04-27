@@ -1,0 +1,8 @@
+Hive wspiera indeksy, dzieki nim jestesmy w stanie pobrac dane i wykonac operacje szybciej. Ponieważ tabla, w którem przechowywane sa indeksy zajmuje dodatkowe miejsce w pamieci i stworzenie indeksów również zaabiera troche czasu, powinniśmy je używac w sytuacjach gdy np: 
+- nasz zbiór danych jest bardzo duży
+- gdy nasze zapytanie trwa dłuzej niz oczekujemy
+- kiedy potrzebujemy szybkiego zapytania
+
+
+
+
